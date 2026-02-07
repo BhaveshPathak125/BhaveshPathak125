@@ -8,17 +8,17 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **RAG Models & AI Models**  
-- 💻 Passionate about **AI&ML Dev**  
-- 🎯 Goal: **Build Multiple AI Agents and Help in Open Source**  
+🌱 I’m currently learning **RAG Models & AI Models**  
+💻 Passionate about **AI&ML Dev**  
+🎯 Goal: **Build Multiple AI Agents and Help in Open Source**  
 
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [pathakbhavesh2005@gmail.com](pathakbhavesh2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
-- 🅾 Instagram: [bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/)  
+📧 Email: [pathakbhavesh2005@gmail.com](pathakbhavesh2005@gmail.com)  
+💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
+🅾 Instagram: [bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/)  
 
 ---
 
