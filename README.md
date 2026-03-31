@@ -2,10 +2,10 @@
 
 ![Welcome GIF](https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif)
 
-
+**Bhavesh D Pathak**
 
 <div align="center">
-**Bhavesh D Pathak**
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Building+AI+Agents;Learning+RAG+%26+LLMs;Open+Source+Contributor;Future+AI+Engineer" />
 
 </div>
