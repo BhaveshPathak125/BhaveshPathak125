@@ -1,6 +1,6 @@
 # Hello There, I'm.....Bhavesh D Pathak
 
-(https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif)
+https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif
 
 <div align="center">
 
