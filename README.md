@@ -1,63 +1,147 @@
-# 👋 Hello There, I am.. *Bhavesh D Pathak*
+# 👋 Hi, I'm Bhavesh D Pathak
 
-![Welcome GIF](https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif)
-  
+<div align="center">
 
----
-##  *Enthusiast Artifical Intelligence & Machine Learning Student , From INDIA*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Building+AI+Agents;Learning+RAG+%26+LLMs;Open+Source+Contributor;Future+AI+Engineer" />
 
-
-## 🚀 About Me
-🌱 I’m currently learning **RAG Models & AI Models**  
-💻 Passionate about **AI&ML Dev**  
-🎯 Goal: **Build Multiple AI Agents and Help in Open Source**  
-
+</div>
 
 ---
 
-## 📫 Contact Me
-📧 Email: [pathakbhavesh2005@gmail.com](pathakbhavesh2005@gmail.com)  
-💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
-🅾 Instagram: [bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/)  
+# 🚀 About Me
+
+🎓 AI & Machine Learning Enthusiast from India
+🧠 Currently Learning **RAG, LLMs & AI Agents**
+💡 Passionate about **Building Real-World AI Applications**
+🚀 Working on **AI-Powered Projects & Open Source Contributions**
+🎯 Goal: **Build Multiple AI Agents & Contribute to Open Source AI**
 
 ---
 
-## 🛠️ Languages & Tools  
+# 🌐 Connect With Me
 
 <p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<a href="mailto:pathakbhavesh2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <!-- ML / Data Science Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/bhavesh-pathak-013368295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://www.instagram.com/bhavesh_pathak15/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <!-- Tools / Platforms -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+---
 
+# 🧠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css"/>
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,vscode,postman,figma"/>
+</p>
 
 ---
-⭐️ From [Bhavesh](https://github.com/BhaveshPathak125/)
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshPathak125&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaveshPathak125&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BhaveshPathak125&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI Finance Tracker
+
+AI-powered expense tracking with smart insights and analytics
+
+## 🧠 RAG LLM Project
+
+Retrieval-Augmented Generation model using modern LLM architecture
+
+## 🎮 AI Level Generator (Unreal Engine)
+
+AI-powered level generator using Natural Language
+
+---
+
+# 🌱 Currently Learning
+
+* RAG Systems
+* Multi-Agent AI
+* LLM Fine-Tuning
+* AI Product Development
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I love building **AI products that solve real-world problems** 🚀
+
+---
+
+<div align="center">
+
+### ⭐ From Bhavesh D Pathak
+
+</div>
