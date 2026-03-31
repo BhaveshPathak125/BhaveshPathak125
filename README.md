@@ -1,8 +1,8 @@
-# Hello There, I'm...
+# Hello There, I'm...**Bhavesh D Pathak**
 
 ![Welcome GIF](https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif)
 
-**Bhavesh D Pathak**
+
 
 <div align="center">
 
