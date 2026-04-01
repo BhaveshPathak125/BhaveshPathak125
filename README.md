@@ -120,8 +120,6 @@ AI-powered level generator using Natural Language
 
 ---
 
-# 📊 Profile Views
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
