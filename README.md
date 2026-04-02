@@ -67,7 +67,7 @@
 ## ⚙️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,vscode,postman,figma,firebase"/>
 </p>
 
 ---
