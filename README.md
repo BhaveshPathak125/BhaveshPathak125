@@ -113,7 +113,7 @@ AI-powered level generator using Natural Language
   
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="mailto:pathakbhavesh2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -128,6 +128,7 @@ AI-powered level generator using Natural Language
 
 </p>
 
+---
 
 ### ⭐ From Bhavesh D Pathak
 
