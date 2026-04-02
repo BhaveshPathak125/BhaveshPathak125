@@ -105,6 +105,10 @@ AI-powered level generator using Natural Language
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
+
+
+<div align="center">
+
 ---
 
 # 🌐 Connect With Me
@@ -125,10 +129,6 @@ AI-powered level generator using Natural Language
 </p>
 
 ---
-
-<div align="center">
-
-
 
 ### ⭐ From Bhavesh D Pathak
 
