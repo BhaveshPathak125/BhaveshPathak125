@@ -75,30 +75,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Finance Tracker
-
-AI-powered expense tracking with smart insights and analytics
-
-## 🧠 RAG LLM Project
-
-Retrieval-Augmented Generation model using modern LLM architecture
-
-## 🎮 AI Level Generator (Unreal Engine)
-
-AI-powered level generator using Natural Language
-
----
-
-# 🌱 Currently Learning
-
-* RAG Systems
-* Multi-Agent AI
-* LLM Fine-Tuning
-* AI Product Development
 
 ---
 
