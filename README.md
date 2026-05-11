@@ -85,7 +85,14 @@
 
 
 <div align="center">
-  
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/BhaveshPathak125/BhaveshPathak125/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 ---
   
 # 🌐 Connect With Me
@@ -102,11 +109,11 @@
 <a href="https://www.instagram.com/bhavesh_pathak15/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=140&section=footer&text=From%20Bhavesh%20D%20Pathak&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
 </p>
 
 ---
 
-### ⭐ From Bhavesh D Pathak
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=140&section=footer&text=From%20Bhavesh%20D%20Pathak&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
 </div>
