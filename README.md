@@ -77,22 +77,11 @@
 
 
 ---
-
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
-
-
-<div align="center">
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/BhaveshPathak125/BhaveshPathak125/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 ---
   
 # 🌐 Connect With Me
