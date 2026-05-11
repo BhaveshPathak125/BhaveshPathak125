@@ -70,16 +70,22 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
 ---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
+
+
+<div align="center">
+  
 ---
   
 # 🌐 Connect With Me
@@ -101,6 +107,10 @@
 
 ---
 
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=140&section=footer&text=From%20Bhavesh%20D%20Pathak&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
+</div>
 
 </div>
