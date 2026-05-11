@@ -1,40 +1,26 @@
-# Hello There, I'm... **Bhavesh D Pathak**
+# Hello There, I'm...**Bhavesh D Pathak**
+
+![Welcome GIF](https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif)
+
+
 
 <div align="center">
 
-<img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif" width="300"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Building+AI+Agents;Learning+RAG+%26+LLMs;Open+Source+Contributor;Future+AI+Engineer" />
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Building+AI+Agents;Learning+RAG+%26+LLMs;Open+Source+Contributor;Future+AI+Engineer" />
-
-</div>
-
----
-
-<div align="center">
 
 # 🚀 About Me
 
-🎓 AI & Machine Learning Enthusiast from India <br><br>
-
-🧠 Currently Learning **RAG, LLMs & AI Agents** <br><br>
-
-💡 Passionate about **Building Real-World AI Applications** <br><br>
-
-🚀 Working on **AI-Powered Projects & Open Source Contributions** <br><br>
-
+🎓 AI & Machine Learning Enthusiast from India  
+🧠 Currently Learning **RAG, LLMs & AI Agents**  
+💡 Passionate about **Building Real-World AI Applications**  
+🚀 Working on **AI-Powered Projects & Open Source Contributions**  
 🎯 Goal: **Build Multiple AI Agents & Contribute to Open Source AI**
 
-</div>
-
 ---
-
-<div align="center">
 
 # 🧠 Tech Stack
 
@@ -44,22 +30,14 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css"/>
 </p>
 
----
-
 ## 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-
 </p>
-
----
 
 ## 🗄️ Databases
 
@@ -67,60 +45,52 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
----
-
 ## ⚙️ Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,vite,git,vscode,postman,figma,firebase"/>
 </p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight" />  
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhaveshPathak125&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=BhaveshPathak125&theme=tokyonight" />
+</p>
 
-# 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhaveshPathak125&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BhaveshPathak125&theme=tokyonight"/>
 
-</div>
-
----
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
+</p>
 
-</div>
 
 ---
 
-<div align="center">
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
-</div>
 
----
 
 <div align="center">
-
+  
+---
+  
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:pathakbhavesh2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -135,40 +105,8 @@
 
 </p>
 
-</div>
-
 ---
 
-<div align="center">
-
-## ✨ Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/BhaveshPathak125/BhaveshPathak125/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;From+Bhavesh+D+Pathak+🚀;Building+the+Future+with+AI+🤖" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=140&section=footer&text=From%20Bhavesh%20D%20Pathak&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+### ⭐ From Bhavesh D Pathak
 
 </div>
