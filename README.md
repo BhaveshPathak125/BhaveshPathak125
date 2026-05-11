@@ -69,15 +69,13 @@
 
 ---
 
-
-
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
 ---
-## 🐍 Contribution Snake
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
