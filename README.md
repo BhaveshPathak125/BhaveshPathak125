@@ -1,3 +1,5 @@
+<h1 align="center">Hello There, Myself...Bhavesh D Pathak</h1>
+
 <p align="center">
   <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif"
        alt="MasterHead"
@@ -5,7 +7,7 @@
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Bhavesh D Pathak</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
