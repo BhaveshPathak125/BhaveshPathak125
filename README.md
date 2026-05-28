@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif"
        alt="MasterHead"
-       height="350"
+       height="650"
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
