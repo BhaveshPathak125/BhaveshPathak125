@@ -28,7 +28,7 @@
 
 ##
 
-<img align="right" alt="AI Coding" width="240" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"/>
+<img align="right" alt="AI Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"/>
 
 ### 🚀 About Me
 
