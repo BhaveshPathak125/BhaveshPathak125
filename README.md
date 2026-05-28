@@ -43,8 +43,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,tensorflow,pytorch,react,nodejs,vite" /><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,firebase,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,vite,mysql,mongodb,tensorflow,pytorch,sklearn,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,firebase,git,github,notion,npm" />
 </p>
 
 ##
