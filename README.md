@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="lefts">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhaveshPathak125&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
