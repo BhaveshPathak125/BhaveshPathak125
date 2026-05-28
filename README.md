@@ -7,8 +7,6 @@
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+ML+Enthusiast+%7C+Building+AI+Agents+%7C+RAG+%26+LLM+Explorer" alt="Typing SVG" />
@@ -30,7 +28,7 @@
 
 ##
 
-<img align="right" alt="AI Coding" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="AI Coding" width="240" src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"/>
 
 ### 🚀 About Me
 
@@ -52,7 +50,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="lefts">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhaveshPathak125&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -79,6 +77,10 @@
 <h3 align="center">⭐ If you like my work, consider following me!</h3>
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=fff&animation=twinkling"
