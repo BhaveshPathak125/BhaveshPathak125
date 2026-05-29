@@ -7,7 +7,12 @@
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Building+AI+Agents;Learning+RAG+%26+LLMs;Open+Source+Contributor;Future+AI+Engineer" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+ML+Enthusiast;Building+AI+Agents;RAG+%26+LLM+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
 
 
