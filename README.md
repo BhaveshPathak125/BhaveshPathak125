@@ -13,6 +13,8 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BhaveshPathak125&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views"/>
 </p>
