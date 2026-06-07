@@ -33,7 +33,7 @@
 
 ##
 
-<img align="right" alt="AI Coding" width="600" src="https://github.com/BhaveshPathak125/MyGIFs/blob/main/batman.gif"/>
+<img align="right" alt="AI Coding" width="400" src="https://github.com/BhaveshPathak125/MyGIFs/blob/main/batman.gif"/>
 
 ### 🚀 About Me
 
