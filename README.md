@@ -33,7 +33,8 @@
 
 ##
 
-<img align="right" style="transform: scaleX(-1);" alt="AI Coding" width="300" src="https://github.com/BhaveshPathak125/MyGIFs/blob/main/batman.gif "/>
+<img align="right" style="transform: scaleX(-1);" alt="AI Coding" width="350" src="https://github.com/BhaveshPathak125/MyGIFs/blob/main/batman.gif "/>
+
 ### 🚀 About Me
 
 - 🎓 AI & ML Enthusiast from India
