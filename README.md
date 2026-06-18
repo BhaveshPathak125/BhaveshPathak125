@@ -68,7 +68,7 @@
 
 ### 🔥 GitHub Streak
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshPathak125&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-gray.vercel.app?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ##
