@@ -69,12 +69,12 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BhaveshPathak125&theme=tokyonight&hide_border=true" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BhaveshPathak125&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ##
 
-### 📈 Contribution Graph
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshPathak125&theme=tokyo-night&hide_border=true"/>
