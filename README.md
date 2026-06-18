@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, Myself...Bhavesh D Pathak</h1>
+<h1 align="center">Hello There, Myself..Bhavesh D Pathak</h1>
 
 <p align="center">
   <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif"
@@ -41,7 +41,7 @@
 - 🧠 Learning **RAG, LLMs & AI Agents**
 - 💡 Building **real-world AI applications**
 - 🤝 Open source contributor & collaborator
-- 🎯 Goal: **Ship multiple AI Agents**
+- 🎯 Goal: **Innovate & Solve Real-World Problems**
 
 
 
@@ -50,8 +50,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,vite,mysql,mongodb,tensorflow,pytorch,sklearn,flask" /><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,firebase,github,notion,npm" />
+  <img src="https://skillicons.dev/icons?i=python,lua,html,css,javascript,react,nodejs,nextjs,vite,mysql,mongodb,tensorflow,opencv,pytorch,sklearn,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,notion,npm" />
 </p>
 
 ##
