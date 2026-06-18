@@ -50,7 +50,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,html,css,javascript,react,nodejs,nextjs,vite,mysql,mongodb,tensorflow,opencv,pytorch,sklearn,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=python,lua,html,css,javascript,react,nodejs,nextjs,vite,mysql,mongodb,tensorflow,pytorch,sklearn,flask" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,notion,npm" />
 </p>
 
