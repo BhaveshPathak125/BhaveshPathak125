@@ -143,9 +143,9 @@ I'm an AI/ML Developer from Mumbai who obsesses over building things that actual
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-ten-gray.vercel.app?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="165"/>
+  <img src="https://github-readme-streak-stats-ten-gray.vercel.app?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
 
 ---
