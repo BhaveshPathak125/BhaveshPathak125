@@ -145,7 +145,7 @@ I'm an AI/ML Developer from Mumbai who obsesses over building things that actual
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="48%"
+    width="45%&border_radius=20"
   />
   <img
     src="https://streak-stats.demolab.com?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15"
