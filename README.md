@@ -144,11 +144,11 @@ I'm an AI/ML Developer from Mumbai who obsesses over building things that actual
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=BhaveshPathak125&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats-ten-gray.vercel.app?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com?user=BhaveshPathak125&theme=ocean-gradient&hide_border=true&border_radius=15"
     width="48%"
   />
 </p>
