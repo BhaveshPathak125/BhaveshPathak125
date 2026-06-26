@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/BhaveshPathak125/BhaveshPathak125/blob/main/output_profile_wide_v2.gif" width="100%" alt="About Me"/>
+  <img src="https://github.com/BhaveshPathak125/BhaveshPathak125/blob/main/output_profile_wide_v3.gif" width="100%" alt="About Me"/>
 </div>
 
 ---
