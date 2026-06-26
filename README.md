@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/Room at dawn 2 1012.gif"
        alt="MasterHead"
-       height="600"
+       height="500"
        style="max-width: 100%; border-radius: 12px;" />
 </p>
 
@@ -28,15 +28,10 @@
 
 ---
 
-## 🧠 About Me
 
-<img align="right" style="transform: scaleX(-1);" alt="AI Coding" width="320" src="https://github.com/BhaveshPathak125/BhaveshPathak125/blob/main/batman.gif"/>
-
-I'm an AI/ML Developer from Mumbai who obsesses over building things that actually work — RAG pipelines, LLM-powered agents, and tools that solve real friction in everyday life. Currently deep in **LangGraph, LangChain & vector databases**, and shipping projects that go beyond Jupyter notebooks.
-
-> *Currently building: **LOCK IN** — a Chromium browser extension to fight digital distraction, because I believe the best productivity tool is one you build yourself.*
-
-<br clear="right"/>
+<div align="center">
+  <img src="https://github.com/BhaveshPathak125/BhaveshPathak125/blob/main/output_profile_wide_v2.gif" width="100%" alt="About Me"/>
+</div>
 
 ---
 
